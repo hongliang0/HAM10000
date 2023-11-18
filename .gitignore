@@ -141,5 +141,4 @@ cython_debug/
 .history/
 
 # Local file images
-.images/*
-.images/
+/images/
